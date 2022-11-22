@@ -1,0 +1,15 @@
+/*so macht man Kommentare*/
+/*so viele classes wie möglich machen*/
+
+
+
+/*width ist breite*/
+.header-image {  
+    width: 100%;
+    }
+
+/*farbe der Überschrift ändern*/
+    .headline {
+    color: blueviolet;
+
+}
